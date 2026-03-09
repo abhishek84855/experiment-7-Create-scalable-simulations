@@ -90,7 +90,6 @@ To create **two datacenters with one host each** and execute cloudlets from **tw
 
  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fdb0238c-1ae5-41ff-9648-321aac189b36" />
 
-
 ## Program
 import org.cloudbus.cloudsim.Cloudlet;
 import org.cloudbus.cloudsim.CloudletSchedulerTimeShared;
@@ -300,16 +299,8 @@ public class ScalableSimulation {
         }
     }
 }
-
-
- 
- 
- ## Output 
-
+## Output 
 <img width="653" height="341" alt="Screenshot 2026-03-09 101024" src="https://github.com/user-attachments/assets/ef54f027-cbc3-439f-94bc-f55892ca2ec9" />
 
-
-
 ## Result
-
 The simulation successfully executed tasks submitted by multiple users across two datacenters. Cloudlets were scheduled based on available resources and virtual machine allocation and executed accordingly.
