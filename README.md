@@ -299,6 +299,8 @@ public class ScalableSimulation {
         }
     }
 }
+
+
 ## Output 
 <img width="653" height="341" alt="Screenshot 2026-03-09 101024" src="https://github.com/user-attachments/assets/ef54f027-cbc3-439f-94bc-f55892ca2ec9" />
 
